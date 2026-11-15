@@ -1,0 +1,778 @@
+{
+"Acetaminophen": [
+"paracetamol",
+"dolo",
+"dolo 650",
+"crocin",
+"calpol",
+"tylenol",
+"panadol",
+"pcm"
+],
+"Aspirin": [
+"ecosprin",
+"disprin",
+"acetylsalicylic acid",
+"asa"
+],
+"Ibuprofen": [
+"brufen",
+"advil",
+"motrin"
+],
+"Naproxen": [
+"aleve",
+"naprosyn"
+],
+"Diclofenac": [
+"voveran",
+"voltaren"
+],
+"Celecoxib": [
+"celebrex"
+],
+"Indomethacin": [
+"indocin"
+],
+"Warfarin": [
+"coumadin",
+"jantoven",
+"warfarin sodium"
+],
+"Acenocoumarol": [
+"acitrom",
+"sintrom"
+],
+"Phenprocoumon": [
+"marcoumar"
+],
+"Apixaban": [
+"eliquis"
+],
+"Rivaroxaban": [
+"xarelto"
+],
+"Dabigatran": [
+"pradaxa"
+],
+"Edoxaban": [
+"savaysa",
+"lixiana"
+],
+"Clopidogrel": [
+"plavix",
+"clopilet",
+"deplatt"
+],
+"Ticagrelor": [
+"brilinta",
+"brilique"
+],
+"Prasugrel": [
+"effient"
+],
+"Fluoxetine": [
+"prozac"
+],
+"Sertraline": [
+"zoloft"
+],
+"Citalopram": [
+"celexa"
+],
+"Paroxetine": [
+"paxil"
+],
+"Escitalopram": [
+"lexapro",
+"nexito",
+"cipralex"
+],
+"Venlafaxine": [
+"effexor"
+],
+"Duloxetine": [
+"cymbalta"
+],
+"Desvenlafaxine": [
+"pristiq"
+],
+"Phenelzine": [
+"nardil"
+],
+"Tranylcypromine": [
+"parnate"
+],
+"Selegiline": [
+"eldepryl"
+],
+"Sumatriptan": [
+"imitrex",
+"suminat"
+],
+"Rizatriptan": [
+"maxalt",
+"rizact"
+],
+"Zolmitriptan": [
+"zomig"
+],
+"Simvastatin": [
+"zocor"
+],
+"Atorvastatin": [
+"lipitor",
+"atorva",
+"storvas"
+],
+"Lovastatin": [
+"mevacor"
+],
+"Rosuvastatin": [
+"crestor",
+"rosuvas"
+],
+"Pravastatin": [
+"pravachol"
+],
+"Clarithromycin": [
+"biaxin",
+"klacid"
+],
+"Erythromycin": [
+"erythrocin"
+],
+"Azithromycin": [
+"zithromax",
+"azithral",
+"azee"
+],
+"Ketoconazole": [
+"nizoral"
+],
+"Itraconazole": [
+"sporanox"
+],
+"Fluconazole": [
+"diflucan"
+],
+"Voriconazole": [
+"vfend"
+],
+"Lisinopril": [
+"zestril",
+"prinivil",
+"listril"
+],
+"Enalapril": [
+"vasotec",
+"envas"
+],
+"Ramipril": [
+"altace",
+"cardace",
+"ramace"
+],
+"Captopril": [
+"capoten"
+],
+"Losartan": [
+"cozaar",
+"losar",
+"repace"
+],
+"Valsartan": [
+"diovan"
+],
+"Irbesartan": [
+"avapro"
+],
+"Candesartan": [
+"atacand"
+],
+"Spironolactone": [
+"aldactone"
+],
+"Eplerenone": [
+"inspra"
+],
+"Amiloride": [
+"midamor"
+],
+"Furosemide": [
+"lasix",
+"frusemide"
+],
+"Bumetanide": [
+"bumex"
+],
+"Torsemide": [
+"dytor",
+"demadex"
+],
+"Hydrochlorothiazide": [
+"hctz",
+"microzide"
+],
+"Chlorthalidone": [
+"thalitone"
+],
+"Indapamide": [
+"natrilix"
+],
+"Potassium chloride": [
+"kcl",
+"klor-con",
+"slow-k"
+],
+"Digoxin": [
+"lanoxin"
+],
+"Metoprolol": [
+"lopressor",
+"toprol",
+"metolar"
+],
+"Atenolol": [
+"tenormin"
+],
+"Propranolol": [
+"inderal"
+],
+"Bisoprolol": [
+"concor"
+],
+"Carvedilol": [
+"coreg"
+],
+"Verapamil": [
+"calan",
+"isoptin"
+],
+"Diltiazem": [
+"cardizem"
+],
+"Amlodipine": [
+"norvasc",
+"amlong",
+"amlodac",
+"stamlo"
+],
+"Nifedipine": [
+"adalat",
+"procardia"
+],
+"Felodipine": [
+"plendil"
+],
+"Diazepam": [
+"valium"
+],
+"Alprazolam": [
+"xanax",
+"alprax"
+],
+"Lorazepam": [
+"ativan"
+],
+"Clonazepam": [
+"klonopin",
+"rivotril",
+"clonotril"
+],
+"Midazolam": [
+"versed"
+],
+"Morphine": [
+"ms contin"
+],
+"Oxycodone": [
+"oxycontin"
+],
+"Tramadol": [
+"ultram",
+"tramazac",
+"contramal"
+],
+"Fentanyl": [
+"duragesic"
+],
+"Codeine": [
+"codeine phosphate"
+],
+"Hydrocodone": [
+"vicodin"
+],
+"Zolpidem": [
+"ambien",
+"zolfresh"
+],
+"Zopiclone": [
+"imovane"
+],
+"Eszopiclone": [
+"lunesta"
+],
+"Haloperidol": [
+"haldol"
+],
+"Ziprasidone": [
+"geodon"
+],
+"Quetiapine": [
+"seroquel"
+],
+"Risperidone": [
+"risperdal",
+"risdone"
+],
+"Olanzapine": [
+"zyprexa"
+],
+"Clozapine": [
+"clozaril"
+],
+"Carbamazepine": [
+"tegretol"
+],
+"Phenytoin": [
+"dilantin",
+"eptoin"
+],
+"Phenobarbital": [
+"phenobarbitone",
+"luminal"
+],
+"Valproate": [
+"depakote",
+"valparin",
+"epilex",
+"sodium valproate",
+"valproic acid"
+],
+"Levetiracetam": [
+"keppra",
+"levipil"
+],
+"Lamotrigine": [
+"lamictal",
+"lamitor"
+],
+"Metformin": [
+"glucophage",
+"glycomet",
+"metformin hydrochloride"
+],
+"Glipizide": [
+"glucotrol"
+],
+"Glyburide": [
+"glibenclamide",
+"daonil",
+"diabeta"
+],
+"Glimepiride": [
+"amaryl",
+"glimestar"
+],
+"Insulin glargine": [
+"lantus",
+"basalog",
+"toujeo"
+],
+"Insulin lispro": [
+"humalog"
+],
+"Insulin aspart": [
+"novolog",
+"novorapid"
+],
+"Regular insulin": [
+"actrapid",
+"humulin r",
+"insulin regular"
+],
+"Prednisone": [
+"deltasone"
+],
+"Dexamethasone": [
+"decadron",
+"dexona"
+],
+"Hydrocortisone": [
+"cortef"
+],
+"Methylprednisolone": [
+"medrol",
+"solu-medrol"
+],
+"Cyclosporine": [
+"sandimmune",
+"neoral"
+],
+"Tacrolimus": [
+"prograf"
+],
+"Sildenafil": [
+"viagra",
+"revatio"
+],
+"Tadalafil": [
+"cialis"
+],
+"Vardenafil": [
+"levitra"
+],
+"Nitroglycerin": [
+"gtn",
+"glyceryl trinitrate",
+"nitrostat"
+],
+"Isosorbide mononitrate": [
+"imdur",
+"ismn",
+"monotrate"
+],
+"Isosorbide dinitrate": [
+"isordil",
+"sorbitrate"
+],
+"Omeprazole": [
+"prilosec",
+"omez"
+],
+"Esomeprazole": [
+"nexium",
+"nexpro"
+],
+"Pantoprazole": [
+"protonix",
+"pantocid"
+],
+"Lansoprazole": [
+"prevacid"
+],
+"Ciprofloxacin": [
+"cipro",
+"ciplox"
+],
+"Levofloxacin": [
+"levaquin",
+"levoflox"
+],
+"Moxifloxacin": [
+"avelox"
+],
+"Doxycycline": [
+"vibramycin",
+"doxy"
+],
+"Minocycline": [
+"minocin"
+],
+"Levothyroxine": [
+"synthroid",
+"eltroxin",
+"thyronorm",
+"thyroxine",
+"l-thyroxine"
+],
+"Lithium carbonate": [
+"lithium",
+"lithosun",
+"priadel"
+],
+"Methotrexate": [
+"mtx",
+"trexall"
+],
+"Gemfibrozil": [
+"lopid"
+],
+"Fenofibrate": [
+"tricor"
+],
+"Heparin": [
+"unfractionated heparin"
+],
+"Enoxaparin": [
+"lovenox",
+"clexane"
+],
+"Dalteparin": [
+"fragmin"
+],
+"Fondaparinux": [
+"arixtra"
+],
+"Amiodarone": [
+"cordarone",
+"pacerone"
+],
+"Dronedarone": [
+"multaq"
+],
+"Sotalol": [
+"betapace"
+],
+"Theophylline": [
+"deriphyllin",
+"theo-24"
+],
+"Aminophylline": [
+"aminophyllin"
+],
+"Albuterol": [
+"salbutamol",
+"ventolin",
+"asthalin",
+"proair"
+],
+"Salmeterol": [
+"serevent"
+],
+"Formoterol": [
+"foradil"
+],
+"Cimetidine": [
+"tagamet"
+],
+"Ranitidine": [
+"zantac",
+"rantac"
+],
+"Famotidine": [
+"pepcid",
+"famocid"
+],
+"Alendronate": [
+"fosamax"
+],
+"Risedronate": [
+"actonel"
+],
+"Ibandronate": [
+"boniva"
+],
+"Zoledronic acid": [
+"reclast",
+"zometa"
+],
+"Methimazole": [
+"tapazole",
+"carbimazole",
+"neomercazole"
+],
+"Propylthiouracil": [
+"ptu"
+],
+"Allopurinol": [
+"zyloric",
+"zyloprim"
+],
+"Febuxostat": [
+"uloric",
+"febutaz"
+],
+"Colchicine": [
+"colcrys"
+],
+"Ritonavir": [
+"norvir"
+],
+"Lopinavir": [
+"kaletra"
+],
+"Atazanavir": [
+"reyataz"
+],
+"Darunavir": [
+"prezista"
+],
+"Rifampin": [
+"rifampicin",
+"rifadin",
+"r-cin"
+],
+"Rifabutin": [
+"mycobutin"
+],
+"Vincristine": [
+"oncovin"
+],
+"5-Fluorouracil": [
+"5-fu",
+"5fu",
+"fluorouracil"
+],
+"Capecitabine": [
+"xeloda"
+],
+"Tamoxifen": [
+"nolvadex"
+],
+"Diphenhydramine": [
+"benadryl"
+],
+"Chlorpheniramine": [
+"cpm",
+"piriton"
+],
+"Hydroxyzine": [
+"atarax"
+],
+"Amitriptyline": [
+"elavil",
+"tryptomer"
+],
+"Nortriptyline": [
+"pamelor",
+"sensival"
+],
+"Imipramine": [
+"tofranil"
+],
+"Ondansetron": [
+"zofran",
+"emeset",
+"ondem"
+],
+"Granisetron": [
+"kytril"
+],
+"Cyclobenzaprine": [
+"flexeril"
+],
+"Baclofen": [
+"lioresal",
+"baclof"
+],
+"Tizanidine": [
+"zanaflex",
+"tizan"
+],
+"Ethinylestradiol/Levonorgestrel": [
+"combined oral contraceptive",
+"oral contraceptive pill",
+"birth control pill",
+"ocp",
+"mala-d",
+"mala d"
+],
+"Cetirizine": [
+"zyrtec",
+"cetzine"
+],
+"Loratadine": [
+"claritin",
+"lorfast"
+],
+"Fexofenadine": [
+"allegra",
+"fexova"
+],
+"Pseudoephedrine": [
+"sudafed"
+],
+"Phenylephrine": [
+"neo-synephrine"
+],
+"Acyclovir": [
+"zovirax",
+"acivir"
+],
+"Valacyclovir": [
+"valtrex"
+],
+"Famciclovir": [
+"famvir"
+],
+"Empagliflozin": [
+"jardiance"
+],
+"Dapagliflozin": [
+"farxiga",
+"forxiga"
+],
+"Canagliflozin": [
+"invokana"
+],
+"Semaglutide": [
+"ozempic",
+"wegovy",
+"rybelsus"
+],
+"Liraglutide": [
+"victoza",
+"saxenda"
+],
+"Dulaglutide": [
+"trulicity"
+],
+"Aluminum hydroxide": [
+"gelusil",
+"maalox",
+"antacid"
+],
+"Magnesium hydroxide": [
+"milk of magnesia"
+],
+"Calcium carbonate": [
+"shelcal",
+"tums",
+"calcium supplement",
+"calcium tablet"
+],
+"Ferrous sulfate": [
+"iron tablet",
+"iron supplement",
+"fersolate"
+],
+"Ferrous gluconate": [
+"fergon"
+],
+"Oxybutynin": [
+"ditropan"
+],
+"Tolterodine": [
+"detrol"
+],
+"Solifenacin": [
+"vesicare"
+],
+"Timolol": [
+"timoptic"
+],
+"Aliskiren": [
+"tekturna"
+],
+"Grapefruit juice": [
+"grapefruit",
+"pomelo",
+"grapefruit products"
+],
+"Leafy green vegetables": [
+"leafy greens",
+"spinach",
+"palak",
+"kale",
+"methi leaves",
+"fenugreek leaves",
+"broccoli"
+],
+"Aged cheese / cured meats": [
+"aged cheese",
+"cured meat",
+"cheddar",
+"parmesan",
+"salami"
+],
+"Dairy products / calcium-fortified foods": [
+"milk",
+"curd",
+"yogurt",
+"yoghurt",
+"paneer",
+"dairy"
+]
+}

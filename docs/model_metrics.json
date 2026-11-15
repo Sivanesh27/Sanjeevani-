@@ -1,0 +1,79 @@
+{
+ "best_model": "XGBoost",
+ "n_samples": 2144,
+ "n_features": 112,
+ "n_tags": 55,
+ "n_classes": 75,
+ "label_counts": {
+  "None": 753,
+  "Minor": 12,
+  "Moderate": 736,
+  "Major": 643
+ },
+ "models": {
+  "RandomForest": {
+   "accuracy": 0.9743589743589743,
+   "precision": 0.9746805616864935,
+   "recall": 0.9743589743589743,
+   "f1": 0.9742965754416136,
+   "cv_accuracy": 0.9776147528483976,
+   "cv_std": 0.007597434811321365,
+   "group_cv_accuracy": 0.5308040868788533,
+   "group_cv_f1": 0.48799158022613137
+  },
+  "XGBoost": {
+   "accuracy": 0.9790209790209791,
+   "precision": 0.9791887851993831,
+   "recall": 0.9790209790209791,
+   "f1": 0.9789539139068918,
+   "cv_accuracy": 0.9762128836895192,
+   "cv_std": 0.004976686256362101,
+   "group_cv_accuracy": 0.5466396531817093,
+   "group_cv_f1": 0.5076030599120791
+  },
+  "LogisticRegression": {
+   "accuracy": 0.8181818181818182,
+   "precision": 0.8283988450811669,
+   "recall": 0.8181818181818182,
+   "f1": 0.8162955609419589,
+   "cv_accuracy": 0.8391041979827026,
+   "cv_std": 0.022788596193344158,
+   "group_cv_accuracy": 0.5933392153018321,
+   "group_cv_f1": 0.5852899847379776
+  }
+ },
+ "macro_roc_auc": 0.9986919583095244,
+ "per_class_auc": {
+  "None": 0.9971175377578732,
+  "Minor": 1.0,
+  "Moderate": 0.999975876875573,
+  "Major": 0.9976744186046512
+ },
+ "per_class_report": {
+  "None": {
+   "precision": 0.9863013698630136,
+   "recall": 0.9536423841059603,
+   "f1-score": 0.9696969696969697,
+   "support": 151.0
+  },
+  "Minor": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1-score": 1.0,
+   "support": 2.0
+  },
+  "Moderate": {
+   "precision": 0.9865771812080537,
+   "recall": 1.0,
+   "f1-score": 0.9932432432432432,
+   "support": 147.0
+  },
+  "Major": {
+   "precision": 0.9621212121212122,
+   "recall": 0.9844961240310077,
+   "f1-score": 0.9731800766283525,
+   "support": 129.0
+  }
+ },
+ "notes": "Random-split scores are optimistic because labels are generated from authored class-pair rules. group_cv_* (leave-class-pair-out) estimates behaviour on class pairs with no authored rule and is the number to trust."
+}

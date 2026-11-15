@@ -1,0 +1,30 @@
+# Render Blueprint - "New +" > "Blueprint" > pick this repo. Secrets marked sync:false are asked for in the dashboard.
+services:
+  - type: web
+    name: sanjeevani-api
+    runtime: python
+    rootDir: backend
+    plan: free
+    region: singapore            # closest to India; change if you prefer
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT --proxy-headers --forwarded-allow-ips="*"
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - { key: PYTHON_VERSION, value: 3.12.3 }
+      - { key: ENV, value: production }
+      - { key: DATABASE_URL, sync: false }              # Neon connection string
+      - { key: SECRET_KEY, sync: false }                # python scripts/generate_secrets.py
+      - { key: FIELD_ENCRYPTION_KEYS, sync: false }     # python scripts/generate_secrets.py  (BACK THIS UP)
+      - { key: FRONTEND_URL, sync: false }              # https://your-app.vercel.app
+      - { key: ALLOWED_ORIGINS, value: "" }
+      - { key: ADMIN_EMAIL, sync: false }
+      - { key: ADMIN_PASSWORD, sync: false }
+      - { key: ADMIN_NAME, value: Doctor }
+      - { key: ADMIN_REQUIRE_OTP, value: "false" }
+      - { key: BREVO_API_KEY, sync: false }
+      - { key: BREVO_SENDER_EMAIL, sync: false }
+      - { key: BREVO_SENDER_NAME, value: Sanjeevani AI }
+      - { key: REQUIRE_EMAIL_VERIFICATION, value: "false" }
+      - { key: REQUIRE_FACE_AT_REGISTRATION, value: "true" }
+      - { key: ENABLE_RLS, value: "false" }

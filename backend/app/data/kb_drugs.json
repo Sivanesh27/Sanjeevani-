@@ -1,0 +1,1947 @@
+[
+ {
+  "name": "Warfarin",
+  "class_name": "Warfarin/VKA anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "cyp2c9_substrate",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Acenocoumarol",
+  "class_name": "Warfarin/VKA anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "cyp2c9_substrate",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Phenprocoumon",
+  "class_name": "Warfarin/VKA anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "cyp2c9_substrate",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Apixaban",
+  "class_name": "DOAC anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "pgp_substrate",
+   "renal_clearance"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Rivaroxaban",
+  "class_name": "DOAC anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "pgp_substrate",
+   "renal_clearance"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Dabigatran",
+  "class_name": "DOAC anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "pgp_substrate",
+   "renal_clearance"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Edoxaban",
+  "class_name": "DOAC anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "pgp_substrate",
+   "renal_clearance"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Aspirin",
+  "class_name": "Antiplatelet",
+  "tags": [
+   "antiplatelet",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Clopidogrel",
+  "class_name": "Antiplatelet",
+  "tags": [
+   "antiplatelet",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ticagrelor",
+  "class_name": "Antiplatelet",
+  "tags": [
+   "antiplatelet",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Prasugrel",
+  "class_name": "Antiplatelet",
+  "tags": [
+   "antiplatelet",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ibuprofen",
+  "class_name": "NSAID",
+  "tags": [
+   "nsaid",
+   "gi_risk",
+   "renal_risk",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Naproxen",
+  "class_name": "NSAID",
+  "tags": [
+   "nsaid",
+   "gi_risk",
+   "renal_risk",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Diclofenac",
+  "class_name": "NSAID",
+  "tags": [
+   "nsaid",
+   "gi_risk",
+   "renal_risk",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Indomethacin",
+  "class_name": "NSAID",
+  "tags": [
+   "nsaid",
+   "gi_risk",
+   "renal_risk",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Celecoxib",
+  "class_name": "NSAID",
+  "tags": [
+   "nsaid",
+   "gi_risk",
+   "renal_risk",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Fluoxetine",
+  "class_name": "SSRI",
+  "tags": [
+   "serotonergic",
+   "cyp2d6_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Sertraline",
+  "class_name": "SSRI",
+  "tags": [
+   "serotonergic",
+   "cyp2d6_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Citalopram",
+  "class_name": "SSRI",
+  "tags": [
+   "serotonergic",
+   "cyp2d6_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Paroxetine",
+  "class_name": "SSRI",
+  "tags": [
+   "serotonergic",
+   "cyp2d6_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Escitalopram",
+  "class_name": "SSRI",
+  "tags": [
+   "serotonergic",
+   "cyp2d6_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Venlafaxine",
+  "class_name": "SNRI",
+  "tags": [
+   "serotonergic"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Duloxetine",
+  "class_name": "SNRI",
+  "tags": [
+   "serotonergic"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Desvenlafaxine",
+  "class_name": "SNRI",
+  "tags": [
+   "serotonergic"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Phenelzine",
+  "class_name": "MAOI",
+  "tags": [
+   "serotonergic",
+   "hypertensive_crisis_risk",
+   "tyramine_interaction"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Tranylcypromine",
+  "class_name": "MAOI",
+  "tags": [
+   "serotonergic",
+   "hypertensive_crisis_risk",
+   "tyramine_interaction"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Selegiline",
+  "class_name": "MAOI",
+  "tags": [
+   "serotonergic",
+   "hypertensive_crisis_risk",
+   "tyramine_interaction"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Sumatriptan",
+  "class_name": "Triptan",
+  "tags": [
+   "serotonergic",
+   "vasoconstrictor"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Rizatriptan",
+  "class_name": "Triptan",
+  "tags": [
+   "serotonergic",
+   "vasoconstrictor"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Zolmitriptan",
+  "class_name": "Triptan",
+  "tags": [
+   "serotonergic",
+   "vasoconstrictor"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Simvastatin",
+  "class_name": "Statin",
+  "tags": [
+   "cyp3a4_substrate",
+   "myopathy_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Atorvastatin",
+  "class_name": "Statin",
+  "tags": [
+   "cyp3a4_substrate",
+   "myopathy_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Lovastatin",
+  "class_name": "Statin",
+  "tags": [
+   "cyp3a4_substrate",
+   "myopathy_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Rosuvastatin",
+  "class_name": "Statin",
+  "tags": [
+   "cyp3a4_substrate",
+   "myopathy_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Pravastatin",
+  "class_name": "Statin",
+  "tags": [
+   "cyp3a4_substrate",
+   "myopathy_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Clarithromycin",
+  "class_name": "Macrolide antibiotic",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Erythromycin",
+  "class_name": "Macrolide antibiotic",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Azithromycin",
+  "class_name": "Macrolide antibiotic",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ketoconazole",
+  "class_name": "Azole antifungal",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Itraconazole",
+  "class_name": "Azole antifungal",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Fluconazole",
+  "class_name": "Azole antifungal",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Voriconazole",
+  "class_name": "Azole antifungal",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Lisinopril",
+  "class_name": "ACE inhibitor",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Enalapril",
+  "class_name": "ACE inhibitor",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ramipril",
+  "class_name": "ACE inhibitor",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Captopril",
+  "class_name": "ACE inhibitor",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Losartan",
+  "class_name": "ARB",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Valsartan",
+  "class_name": "ARB",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Irbesartan",
+  "class_name": "ARB",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Candesartan",
+  "class_name": "ARB",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Spironolactone",
+  "class_name": "Potassium-sparing diuretic",
+  "tags": [
+   "hyperkalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Eplerenone",
+  "class_name": "Potassium-sparing diuretic",
+  "tags": [
+   "hyperkalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Amiloride",
+  "class_name": "Potassium-sparing diuretic",
+  "tags": [
+   "hyperkalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Furosemide",
+  "class_name": "Loop diuretic",
+  "tags": [
+   "hypokalemia_risk",
+   "ototoxicity_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Bumetanide",
+  "class_name": "Loop diuretic",
+  "tags": [
+   "hypokalemia_risk",
+   "ototoxicity_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Torsemide",
+  "class_name": "Loop diuretic",
+  "tags": [
+   "hypokalemia_risk",
+   "ototoxicity_risk",
+   "renal_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Hydrochlorothiazide",
+  "class_name": "Thiazide diuretic",
+  "tags": [
+   "hypokalemia_risk",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Chlorthalidone",
+  "class_name": "Thiazide diuretic",
+  "tags": [
+   "hypokalemia_risk",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Indapamide",
+  "class_name": "Thiazide diuretic",
+  "tags": [
+   "hypokalemia_risk",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Potassium chloride",
+  "class_name": "Potassium supplement",
+  "tags": [
+   "hyperkalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Digoxin",
+  "class_name": "Digoxin",
+  "tags": [
+   "pgp_substrate",
+   "narrow_therapeutic_index",
+   "arrhythmia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Metoprolol",
+  "class_name": "Beta blocker",
+  "tags": [
+   "bradycardia_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Atenolol",
+  "class_name": "Beta blocker",
+  "tags": [
+   "bradycardia_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Propranolol",
+  "class_name": "Beta blocker",
+  "tags": [
+   "bradycardia_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Bisoprolol",
+  "class_name": "Beta blocker",
+  "tags": [
+   "bradycardia_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Carvedilol",
+  "class_name": "Beta blocker",
+  "tags": [
+   "bradycardia_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Verapamil",
+  "class_name": "Non-dihydropyridine CCB",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "bradycardia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Diltiazem",
+  "class_name": "Non-dihydropyridine CCB",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "bradycardia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Amlodipine",
+  "class_name": "Dihydropyridine CCB",
+  "tags": [
+   "cyp3a4_substrate",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Nifedipine",
+  "class_name": "Dihydropyridine CCB",
+  "tags": [
+   "cyp3a4_substrate",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Felodipine",
+  "class_name": "Dihydropyridine CCB",
+  "tags": [
+   "cyp3a4_substrate",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Diazepam",
+  "class_name": "Benzodiazepine",
+  "tags": [
+   "cns_depressant",
+   "cyp3a4_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Alprazolam",
+  "class_name": "Benzodiazepine",
+  "tags": [
+   "cns_depressant",
+   "cyp3a4_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Lorazepam",
+  "class_name": "Benzodiazepine",
+  "tags": [
+   "cns_depressant",
+   "cyp3a4_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Clonazepam",
+  "class_name": "Benzodiazepine",
+  "tags": [
+   "cns_depressant",
+   "cyp3a4_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Midazolam",
+  "class_name": "Benzodiazepine",
+  "tags": [
+   "cns_depressant",
+   "cyp3a4_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Morphine",
+  "class_name": "Opioid",
+  "tags": [
+   "cns_depressant",
+   "respiratory_depression_risk",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Oxycodone",
+  "class_name": "Opioid",
+  "tags": [
+   "cns_depressant",
+   "respiratory_depression_risk",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Tramadol",
+  "class_name": "Opioid",
+  "tags": [
+   "cns_depressant",
+   "respiratory_depression_risk",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Fentanyl",
+  "class_name": "Opioid",
+  "tags": [
+   "cns_depressant",
+   "respiratory_depression_risk",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Codeine",
+  "class_name": "Opioid",
+  "tags": [
+   "cns_depressant",
+   "respiratory_depression_risk",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Hydrocodone",
+  "class_name": "Opioid",
+  "tags": [
+   "cns_depressant",
+   "respiratory_depression_risk",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Zolpidem",
+  "class_name": "Z-drug hypnotic",
+  "tags": [
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Zopiclone",
+  "class_name": "Z-drug hypnotic",
+  "tags": [
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Eszopiclone",
+  "class_name": "Z-drug hypnotic",
+  "tags": [
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Haloperidol",
+  "class_name": "Antipsychotic (QT risk)",
+  "tags": [
+   "qt_risk",
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ziprasidone",
+  "class_name": "Antipsychotic (QT risk)",
+  "tags": [
+   "qt_risk",
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Quetiapine",
+  "class_name": "Antipsychotic (QT risk)",
+  "tags": [
+   "qt_risk",
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Risperidone",
+  "class_name": "Antipsychotic (QT risk)",
+  "tags": [
+   "qt_risk",
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Carbamazepine",
+  "class_name": "Antiepileptic (enzyme inducer)",
+  "tags": [
+   "cyp3a4_inducer",
+   "cyp2c9_inducer"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Phenytoin",
+  "class_name": "Antiepileptic (enzyme inducer)",
+  "tags": [
+   "cyp3a4_inducer",
+   "cyp2c9_inducer"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Phenobarbital",
+  "class_name": "Antiepileptic (enzyme inducer)",
+  "tags": [
+   "cyp3a4_inducer",
+   "cyp2c9_inducer"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Valproate",
+  "class_name": "Antiepileptic (other)",
+  "tags": [
+   "hepatic_metabolism"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Levetiracetam",
+  "class_name": "Antiepileptic (other)",
+  "tags": [
+   "hepatic_metabolism"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Lamotrigine",
+  "class_name": "Antiepileptic (other)",
+  "tags": [
+   "hepatic_metabolism"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Metformin",
+  "class_name": "Metformin",
+  "tags": [
+   "renal_clearance",
+   "lactic_acidosis_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Glipizide",
+  "class_name": "Sulfonylurea",
+  "tags": [
+   "hypoglycemia_risk",
+   "cyp2c9_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Glyburide",
+  "class_name": "Sulfonylurea",
+  "tags": [
+   "hypoglycemia_risk",
+   "cyp2c9_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Glimepiride",
+  "class_name": "Sulfonylurea",
+  "tags": [
+   "hypoglycemia_risk",
+   "cyp2c9_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Insulin glargine",
+  "class_name": "Insulin",
+  "tags": [
+   "hypoglycemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Insulin lispro",
+  "class_name": "Insulin",
+  "tags": [
+   "hypoglycemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Insulin aspart",
+  "class_name": "Insulin",
+  "tags": [
+   "hypoglycemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Regular insulin",
+  "class_name": "Insulin",
+  "tags": [
+   "hypoglycemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Aliskiren",
+  "class_name": "Direct renin inhibitor",
+  "tags": [
+   "raas",
+   "hyperkalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Prednisone",
+  "class_name": "Corticosteroid",
+  "tags": [
+   "hyperglycemia_risk",
+   "gi_risk",
+   "immunosuppressant",
+   "hypokalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Dexamethasone",
+  "class_name": "Corticosteroid",
+  "tags": [
+   "hyperglycemia_risk",
+   "gi_risk",
+   "immunosuppressant",
+   "hypokalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Hydrocortisone",
+  "class_name": "Corticosteroid",
+  "tags": [
+   "hyperglycemia_risk",
+   "gi_risk",
+   "immunosuppressant",
+   "hypokalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Methylprednisolone",
+  "class_name": "Corticosteroid",
+  "tags": [
+   "hyperglycemia_risk",
+   "gi_risk",
+   "immunosuppressant",
+   "hypokalemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Cyclosporine",
+  "class_name": "Immunosuppressant (calcineurin inhibitor)",
+  "tags": [
+   "cyp3a4_substrate",
+   "nephrotoxicity_risk",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Tacrolimus",
+  "class_name": "Immunosuppressant (calcineurin inhibitor)",
+  "tags": [
+   "cyp3a4_substrate",
+   "nephrotoxicity_risk",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Sildenafil",
+  "class_name": "PDE5 inhibitor",
+  "tags": [
+   "vasodilator",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Tadalafil",
+  "class_name": "PDE5 inhibitor",
+  "tags": [
+   "vasodilator",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Vardenafil",
+  "class_name": "PDE5 inhibitor",
+  "tags": [
+   "vasodilator",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Nitroglycerin",
+  "class_name": "Nitrate",
+  "tags": [
+   "vasodilator",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Isosorbide mononitrate",
+  "class_name": "Nitrate",
+  "tags": [
+   "vasodilator",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Isosorbide dinitrate",
+  "class_name": "Nitrate",
+  "tags": [
+   "vasodilator",
+   "hypotension_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Omeprazole",
+  "class_name": "Proton pump inhibitor",
+  "tags": [
+   "cyp2c19_inhibitor",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Esomeprazole",
+  "class_name": "Proton pump inhibitor",
+  "tags": [
+   "cyp2c19_inhibitor",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Pantoprazole",
+  "class_name": "Proton pump inhibitor",
+  "tags": [
+   "cyp2c19_inhibitor",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Lansoprazole",
+  "class_name": "Proton pump inhibitor",
+  "tags": [
+   "cyp2c19_inhibitor",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ciprofloxacin",
+  "class_name": "Fluoroquinolone",
+  "tags": [
+   "qt_risk",
+   "cyp1a2_inhibitor",
+   "chelation_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Levofloxacin",
+  "class_name": "Fluoroquinolone",
+  "tags": [
+   "qt_risk",
+   "cyp1a2_inhibitor",
+   "chelation_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Moxifloxacin",
+  "class_name": "Fluoroquinolone",
+  "tags": [
+   "qt_risk",
+   "cyp1a2_inhibitor",
+   "chelation_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Doxycycline",
+  "class_name": "Tetracycline",
+  "tags": [
+   "chelation_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Tetracycline",
+  "class_name": "Tetracycline",
+  "tags": [
+   "chelation_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Minocycline",
+  "class_name": "Tetracycline",
+  "tags": [
+   "chelation_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Levothyroxine",
+  "class_name": "Levothyroxine",
+  "tags": [
+   "narrow_therapeutic_index",
+   "chelation_risk",
+   "absorption_sensitive"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Lithium carbonate",
+  "class_name": "Lithium",
+  "tags": [
+   "narrow_therapeutic_index",
+   "renal_clearance"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Methotrexate",
+  "class_name": "Methotrexate",
+  "tags": [
+   "renal_clearance",
+   "narrow_therapeutic_index",
+   "bone_marrow_suppression_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Gemfibrozil",
+  "class_name": "Fibrate",
+  "tags": [
+   "myopathy_risk",
+   "cyp2c8_inhibitor"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Fenofibrate",
+  "class_name": "Fibrate",
+  "tags": [
+   "myopathy_risk",
+   "cyp2c8_inhibitor"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Grapefruit juice",
+  "class_name": "Grapefruit (food)",
+  "tags": [
+   "cyp3a4_inhibitor_food"
+  ],
+  "kind": "food"
+ },
+ {
+  "name": "Leafy green vegetables",
+  "class_name": "Vitamin K-rich foods (food)",
+  "tags": [
+   "vitamin_k_source"
+  ],
+  "kind": "food"
+ },
+ {
+  "name": "Aged cheese / cured meats",
+  "class_name": "Tyramine-rich foods (food)",
+  "tags": [
+   "tyramine_source"
+  ],
+  "kind": "food"
+ },
+ {
+  "name": "Heparin",
+  "class_name": "Heparin/LMWH anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Enoxaparin",
+  "class_name": "Heparin/LMWH anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Dalteparin",
+  "class_name": "Heparin/LMWH anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Fondaparinux",
+  "class_name": "Heparin/LMWH anticoagulant",
+  "tags": [
+   "anticoagulant",
+   "bleeding_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Amiodarone",
+  "class_name": "Antiarrhythmic (Class III)",
+  "tags": [
+   "qt_risk",
+   "cyp3a4_inhibitor",
+   "cyp2d6_inhibitor",
+   "bradycardia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Dronedarone",
+  "class_name": "Antiarrhythmic (Class III)",
+  "tags": [
+   "qt_risk",
+   "cyp3a4_inhibitor",
+   "cyp2d6_inhibitor",
+   "bradycardia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Sotalol",
+  "class_name": "Antiarrhythmic (Class III)",
+  "tags": [
+   "qt_risk",
+   "cyp3a4_inhibitor",
+   "cyp2d6_inhibitor",
+   "bradycardia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Theophylline",
+  "class_name": "Theophylline/Xanthine",
+  "tags": [
+   "cyp1a2_substrate",
+   "narrow_therapeutic_index",
+   "arrhythmia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Aminophylline",
+  "class_name": "Theophylline/Xanthine",
+  "tags": [
+   "cyp1a2_substrate",
+   "narrow_therapeutic_index",
+   "arrhythmia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Albuterol",
+  "class_name": "Beta-2 agonist bronchodilator",
+  "tags": [
+   "hypokalemia_risk",
+   "arrhythmia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Salmeterol",
+  "class_name": "Beta-2 agonist bronchodilator",
+  "tags": [
+   "hypokalemia_risk",
+   "arrhythmia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Formoterol",
+  "class_name": "Beta-2 agonist bronchodilator",
+  "tags": [
+   "hypokalemia_risk",
+   "arrhythmia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Cimetidine",
+  "class_name": "H2 receptor antagonist",
+  "tags": [
+   "cyp1a2_inhibitor",
+   "cyp3a4_inhibitor",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ranitidine",
+  "class_name": "H2 receptor antagonist",
+  "tags": [
+   "cyp1a2_inhibitor",
+   "cyp3a4_inhibitor",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Famotidine",
+  "class_name": "H2 receptor antagonist",
+  "tags": [
+   "cyp1a2_inhibitor",
+   "cyp3a4_inhibitor",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Alendronate",
+  "class_name": "Bisphosphonate",
+  "tags": [
+   "chelation_risk",
+   "gi_risk",
+   "absorption_sensitive"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Risedronate",
+  "class_name": "Bisphosphonate",
+  "tags": [
+   "chelation_risk",
+   "gi_risk",
+   "absorption_sensitive"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ibandronate",
+  "class_name": "Bisphosphonate",
+  "tags": [
+   "chelation_risk",
+   "gi_risk",
+   "absorption_sensitive"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Zoledronic acid",
+  "class_name": "Bisphosphonate",
+  "tags": [
+   "chelation_risk",
+   "gi_risk",
+   "absorption_sensitive"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Methimazole",
+  "class_name": "Antithyroid",
+  "tags": [
+   "bone_marrow_suppression_risk",
+   "hepatic_metabolism"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Propylthiouracil",
+  "class_name": "Antithyroid",
+  "tags": [
+   "bone_marrow_suppression_risk",
+   "hepatic_metabolism"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Allopurinol",
+  "class_name": "Gout agent",
+  "tags": [
+   "cyp3a4_substrate",
+   "bone_marrow_suppression_risk",
+   "myopathy_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Febuxostat",
+  "class_name": "Gout agent",
+  "tags": [
+   "cyp3a4_substrate",
+   "bone_marrow_suppression_risk",
+   "myopathy_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Colchicine",
+  "class_name": "Gout agent",
+  "tags": [
+   "cyp3a4_substrate",
+   "bone_marrow_suppression_risk",
+   "myopathy_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ritonavir",
+  "class_name": "HIV protease inhibitor",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "pgp_inhibitor",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Lopinavir",
+  "class_name": "HIV protease inhibitor",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "pgp_inhibitor",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Atazanavir",
+  "class_name": "HIV protease inhibitor",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "pgp_inhibitor",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Darunavir",
+  "class_name": "HIV protease inhibitor",
+  "tags": [
+   "cyp3a4_inhibitor",
+   "pgp_inhibitor",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Rifampin",
+  "class_name": "Antitubercular (Rifamycin)",
+  "tags": [
+   "cyp3a4_inducer",
+   "cyp2c9_inducer",
+   "hepatic_metabolism"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Rifabutin",
+  "class_name": "Antitubercular (Rifamycin)",
+  "tags": [
+   "cyp3a4_inducer",
+   "cyp2c9_inducer",
+   "hepatic_metabolism"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Vincristine",
+  "class_name": "Chemotherapy - Vinca alkaloid",
+  "tags": [
+   "cyp3a4_substrate",
+   "narrow_therapeutic_index",
+   "bone_marrow_suppression_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Vinblastine",
+  "class_name": "Chemotherapy - Vinca alkaloid",
+  "tags": [
+   "cyp3a4_substrate",
+   "narrow_therapeutic_index",
+   "bone_marrow_suppression_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "5-Fluorouracil",
+  "class_name": "Chemotherapy - Fluoropyrimidine",
+  "tags": [
+   "bone_marrow_suppression_risk",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Capecitabine",
+  "class_name": "Chemotherapy - Fluoropyrimidine",
+  "tags": [
+   "bone_marrow_suppression_risk",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Tamoxifen",
+  "class_name": "Tamoxifen",
+  "tags": [
+   "cyp2d6_substrate",
+   "narrow_therapeutic_index"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Diphenhydramine",
+  "class_name": "First-gen antihistamine",
+  "tags": [
+   "cns_depressant",
+   "anticholinergic_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Chlorpheniramine",
+  "class_name": "First-gen antihistamine",
+  "tags": [
+   "cns_depressant",
+   "anticholinergic_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Hydroxyzine",
+  "class_name": "First-gen antihistamine",
+  "tags": [
+   "cns_depressant",
+   "anticholinergic_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Amitriptyline",
+  "class_name": "Tricyclic antidepressant",
+  "tags": [
+   "serotonergic",
+   "qt_risk",
+   "anticholinergic_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Nortriptyline",
+  "class_name": "Tricyclic antidepressant",
+  "tags": [
+   "serotonergic",
+   "qt_risk",
+   "anticholinergic_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Imipramine",
+  "class_name": "Tricyclic antidepressant",
+  "tags": [
+   "serotonergic",
+   "qt_risk",
+   "anticholinergic_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ondansetron",
+  "class_name": "Antiemetic (5-HT3 antagonist)",
+  "tags": [
+   "qt_risk",
+   "serotonergic"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Granisetron",
+  "class_name": "Antiemetic (5-HT3 antagonist)",
+  "tags": [
+   "qt_risk",
+   "serotonergic"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Cyclobenzaprine",
+  "class_name": "Muscle relaxant",
+  "tags": [
+   "cns_depressant",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Baclofen",
+  "class_name": "Muscle relaxant",
+  "tags": [
+   "cns_depressant",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Tizanidine",
+  "class_name": "Muscle relaxant",
+  "tags": [
+   "cns_depressant",
+   "serotonergic_partial"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ethinylestradiol/Levonorgestrel",
+  "class_name": "Combined oral contraceptive",
+  "tags": [
+   "cyp3a4_substrate",
+   "thrombosis_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ethinylestradiol/Norethindrone",
+  "class_name": "Combined oral contraceptive",
+  "tags": [
+   "cyp3a4_substrate",
+   "thrombosis_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Cetirizine",
+  "class_name": "Second-gen antihistamine",
+  "tags": [
+   "cyp3a4_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Loratadine",
+  "class_name": "Second-gen antihistamine",
+  "tags": [
+   "cyp3a4_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Fexofenadine",
+  "class_name": "Second-gen antihistamine",
+  "tags": [
+   "cyp3a4_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Pseudoephedrine",
+  "class_name": "Nasal decongestant",
+  "tags": [
+   "hypertensive_crisis_risk",
+   "arrhythmia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Phenylephrine",
+  "class_name": "Nasal decongestant",
+  "tags": [
+   "hypertensive_crisis_risk",
+   "arrhythmia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Acyclovir",
+  "class_name": "Antiviral (Herpes)",
+  "tags": [
+   "renal_clearance",
+   "nephrotoxicity_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Valacyclovir",
+  "class_name": "Antiviral (Herpes)",
+  "tags": [
+   "renal_clearance",
+   "nephrotoxicity_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Famciclovir",
+  "class_name": "Antiviral (Herpes)",
+  "tags": [
+   "renal_clearance",
+   "nephrotoxicity_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Empagliflozin",
+  "class_name": "SGLT2 inhibitor",
+  "tags": [
+   "renal_clearance",
+   "hypoglycemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Dapagliflozin",
+  "class_name": "SGLT2 inhibitor",
+  "tags": [
+   "renal_clearance",
+   "hypoglycemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Canagliflozin",
+  "class_name": "SGLT2 inhibitor",
+  "tags": [
+   "renal_clearance",
+   "hypoglycemia_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Semaglutide",
+  "class_name": "GLP-1 agonist",
+  "tags": [
+   "hypoglycemia_risk",
+   "gi_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Liraglutide",
+  "class_name": "GLP-1 agonist",
+  "tags": [
+   "hypoglycemia_risk",
+   "gi_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Dulaglutide",
+  "class_name": "GLP-1 agonist",
+  "tags": [
+   "hypoglycemia_risk",
+   "gi_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Aluminum hydroxide",
+  "class_name": "Antacid",
+  "tags": [
+   "chelation_risk",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Magnesium hydroxide",
+  "class_name": "Antacid",
+  "tags": [
+   "chelation_risk",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Calcium carbonate",
+  "class_name": "Antacid",
+  "tags": [
+   "chelation_risk",
+   "gastric_ph_dependent_absorption"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ferrous sulfate",
+  "class_name": "Iron supplement",
+  "tags": [
+   "chelation_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Ferrous gluconate",
+  "class_name": "Iron supplement",
+  "tags": [
+   "chelation_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Oxybutynin",
+  "class_name": "Anticholinergic (overactive bladder)",
+  "tags": [
+   "anticholinergic_risk",
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Tolterodine",
+  "class_name": "Anticholinergic (overactive bladder)",
+  "tags": [
+   "anticholinergic_risk",
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Solifenacin",
+  "class_name": "Anticholinergic (overactive bladder)",
+  "tags": [
+   "anticholinergic_risk",
+   "cns_depressant"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Timolol",
+  "class_name": "Glaucoma agent (topical beta blocker)",
+  "tags": [
+   "bradycardia_risk",
+   "cyp2d6_substrate"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Olanzapine",
+  "class_name": "Antipsychotic (atypical, metabolic risk)",
+  "tags": [
+   "cns_depressant",
+   "hyperglycemia_risk",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Clozapine",
+  "class_name": "Antipsychotic (atypical, metabolic risk)",
+  "tags": [
+   "cns_depressant",
+   "hyperglycemia_risk",
+   "qt_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Acetaminophen",
+  "class_name": "Acetaminophen",
+  "tags": [
+   "hepatic_metabolism",
+   "hepatotoxicity_risk"
+  ],
+  "kind": "drug"
+ },
+ {
+  "name": "Dairy products / calcium-fortified foods",
+  "class_name": "Calcium / dairy (food)",
+  "tags": [
+   "chelation_risk",
+   "calcium_source"
+  ],
+  "kind": "food"
+ }
+]
