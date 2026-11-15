@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://YOUR-RENDER-SERVICE.onrender.com/api/:path*" },
+    { "source": "/api/:path*", "destination": "https://sanjeevani-k5ec.onrender.com/" },
     { "source": "/((?!assets/|models/|icon|manifest).*)", "destination": "/index.html" }
   ],
   "headers": [
